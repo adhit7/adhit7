@@ -14,7 +14,7 @@
 - 😄 Pronouns : **He / His / Him**
 
 
-<img align="right" alt="img" src="https://github.com/adhit7/My-Github/blob/main/Cover-Image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/adhit7/adhit7/blob/main/Cover-Image.jpg" width="50%" height="auto" />
 
 ### 🌱 Things I am currently working on: 
 Thinking on  
