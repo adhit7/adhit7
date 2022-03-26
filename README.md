@@ -1,4 +1,4 @@
-## Welcome to my Github page!👋 I am Adhithyan, and I love doing Web Developement and Programming!  
+## Welcome to my Github page👋!  
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/adhit7)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adhithyans786@gmail.com)
@@ -13,6 +13,8 @@
 
 - 😄 Pronouns : **He / His / Him**
 
+
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=adhit7&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="img" />
 
 <img align="right" alt="img" src="https://github.com/adhit7/adhit7/blob/main/Cover-Image.jpg" width="50%" height="auto" />
 
