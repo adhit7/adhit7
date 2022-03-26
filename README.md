@@ -17,7 +17,7 @@
 <img align="right" alt="img" src="https://github.com/adhit7/adhit7/blob/main/Cover-Image.jpg" width="50%" height="auto" />
 
 ### 🌱 Things I am currently working on: 
-Thinking on  
+Thinking on Personal Project
 
 ### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
