@@ -1,12 +1,12 @@
-<h2>Hey 👋, I'm <a href="https://adhithyan.netlify.app/">Adhithyan</a></h2>
+<h2>Hey 👋, I'm Adhithyan</h2>
 <p>I'm passionate developer who loves to explore and learn new technologies. I always look for a core idea in everything so that it helps me to understand the product and makes me to think new innovative things in life.</p>
-<p><a href="https://adhithyan.netlify.app/"><img src="https://img.shields.io/badge/-Adhithyan-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://adhithyan.netlify.app/" alt="Website Badge"></a>
+<p>
   <a href="https://www.linkedin.com/in/adhithyan-s-a37aa7183/"><img src="https://img.shields.io/badge/-@Adhithyan-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/adhithyan-s-a37aa7183/" alt="LinkedIn Badge"></a>
   <a href="mailto:adhithyanalan@gmail.com"><img src="https://img.shields.io/badge/-@Adhithyan-c14438?style=flat-square&amp;labelColor=white&amp;logo=Gmail&amp;link=adhithyanlan@gmail.com/" alt="Gmail Badge"></a></p>
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on my open source project.</li>
+<li>🔭 I’m currently working on my personal projects.</li>
 <li>🧐 Learning about <strong>blockchain technology</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/adhit7">Github</a>.</li>
 <li>📝 I regulary read many tweets and ideas of many business people on twitter.</li>
