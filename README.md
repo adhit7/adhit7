@@ -6,11 +6,10 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on my personal projects.</li>
-<li>🧐 Learning about <strong>blockchain technology</strong>.</li>
+<li>🔭 I’m currently working on my own product ideas.</li>
+<li>🧐 Always excited to pick up new skills and apply them to products.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/adhit7">Github</a>.</li>
 <li>📝 I regulary read many tweets and ideas of many business people on twitter.</li>
-<li>💬 Ping me about <strong>react, javascript, and blockchain</strong>.</li>
 </ul>
 
 ## ⚡ Technologies
